@@ -1,0 +1,4 @@
+Democrat 5
+Green 1
+Independent 17
+Republican 0
